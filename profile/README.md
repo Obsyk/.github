@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://obsyk.ai/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://obsyk.ai/logo-light.svg">
-  <img alt="Obsyk" src="https://obsyk.ai/logo-light.svg" width="200">
+  <source media="(prefers-color-scheme: dark)" srcset="https://obsyk.ai/assets/logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://obsyk.ai/assets/logo.svg">
+  <img alt="Obsyk" src="https://obsyk.ai/assets/logo.svg" width="200">
 </picture>
 
 # See Everything Running in Your Kubernetes Clusters
